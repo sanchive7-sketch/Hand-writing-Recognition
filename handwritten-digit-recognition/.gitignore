@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+models/*.keras
+models/*.pkl
+results/*.csv
+results/*.json
+results/*.txt
+results/confusion_matrices/*.png
+results/training_plots/*.png
